@@ -1,4 +1,4 @@
-
+.
 -- ADM AIM | Roblox Studio
 -- ESP e Aim Assist para NPCs de teste
 -- LocalScript em StarterPlayerScripts
